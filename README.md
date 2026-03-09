@@ -63,7 +63,7 @@
 ### 可视化原型
 
 #### AI生成概念图
-![alt text](<树莓派设备3D渲染场景 (1)-1.png>) ![alt text](树莓派设备3D渲染场景-2.png)
+![alt text](<1.png>) ![alt text](2.png)
 
 *（注：实际提交时替换为MidJourney/DALL·E生成的真实图片）*
 
